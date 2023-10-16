@@ -1,7 +1,7 @@
 # Vydra.ss
-A 1.19.2 Crystal PVP client
+free 1.19.2 Crystal PVP client
 -  keybind = Insert
 
-gui credits -elpapu
+-  gui credits -elpapu
 
-skidded by me
+-  skidded by me

@@ -3,5 +3,6 @@ free 1.19.2 Crystal PVP client
 -  keybind = Insert
 
 -  gui credits -elpapu
-![image](https://github.com/0vel/Vydra.ss-cwhack/assets/134466741/4abdad93-a3ba-4f8e-b256-18ad254da983)
+![image](https://github.com/0vel/cwhack_vydra.ss/assets/134466741/edf4e40d-1dd7-4385-8c35-3f8879204a26)
+
 -  skidded by me

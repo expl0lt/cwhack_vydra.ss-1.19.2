@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "loader",
+  "version": "${version}",
+  "name": "FabricMC",
+  "description": "A Minecraft Loader",
+  "authors": [
+    "FabricMC"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/art/donut.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.io.fabric.Main"
+    ]
+  },
+  "mixins": [
+    "antarctica.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}

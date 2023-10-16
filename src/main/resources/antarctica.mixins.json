@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.io.fabric.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LivingEntityMixin",
+    "TextVisitFactoryMixin"
+  ],
+  "client": [
+    "ClientPlayerEntityMixin",
+    "ClientPlayerInteractionManagerMixin",
+    "ClientPlayNetworkHandlerMixin",
+    "ClientWorldMixin",
+    "GameRendererMixin",
+    "InGameHudMixin",
+    "KeyboardMixin",
+    "LivingEntityRendererMixin",
+    "MinecraftClientMixin",
+    "TextRendererMixin",
+    "DeathScreenMixin",
+    "MixinConfigClientSide"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
